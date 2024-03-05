@@ -3,12 +3,12 @@ Metrics dashboard that gives the UA CS department the ability to assess its Twit
 
 ## Important Links
 
-* Main wiki with deliverables: To be announced
-* System overview: To be announced
+* [Main wiki with deliverables](https://github.com/samuelmgaines/tide-tweet-metrics-public/wiki)
+* [System overview](https://github.com/samuelmgaines/tide-tweet-metrics-public/wiki/Crawler-System)
 
 ## Running the Crawler
 
-1. Follow the dev setup instructions [To be announced](https://google.com)
+1. Follow the dev setup instructions [here]([https://google.com](https://github.com/samuelmgaines/tide-tweet-metrics-public/wiki/Crawler-Dev-Setup))
 2. Check to make sure the `crawler_config.json` file has the correct IP and password
 3. Run the `main.py` file in the `crawler_sys` folder.
 
