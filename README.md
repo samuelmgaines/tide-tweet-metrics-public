@@ -15,4 +15,4 @@ Metrics dashboard that gives the UA CS department the ability to assess its Twit
 ## Examining the Database
 
 1. Download [MongoDB Compass](https://www.mongodb.com/products/tools/compass)
-2. Follow the instructions [To be announced](https://google.com)
+2. Configure password and IP address (available on private repository)
